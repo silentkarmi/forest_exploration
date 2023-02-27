@@ -15,8 +15,8 @@ setup(
     zip_safe=True,
     maintainer='silentkarmi',
     maintainer_email='kmishra@umd.edu',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    description='Forest Exploration',
+    license='GNUGPLv3',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
